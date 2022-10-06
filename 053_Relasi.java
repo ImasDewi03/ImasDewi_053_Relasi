@@ -1,4 +1,4 @@
-"Imas Dewi O.N.I 21091397053"
+//Imas Dewi O.N.I 21091397053
 
 public class Main {
 
